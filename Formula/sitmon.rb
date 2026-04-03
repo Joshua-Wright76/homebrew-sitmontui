@@ -6,8 +6,8 @@ class Sitmon < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Joshua-Wright76/sitmontui/releases/download/v1.1.0/sitmon_cli"
-      sha256 "f12553efcbc389a187a954e7815f1db2733abd81d7ac6ca84353d853c6b8be78"
+      url "https://github.com/Joshua-Wright76/sitmontui/releases/download/v1.2.0/sitmon_cli"
+      sha256 "334947ebd324ccc818c8d8e2855b273ac9781fc3a54c88e6492bb56d35e2777d"
     end
   end
 
